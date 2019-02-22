@@ -1,2 +1,2 @@
 # nba-predictions
-the code for any conclusions I will make
+the code for any conclusions we will make
